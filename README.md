@@ -1,7 +1,11 @@
 # Apache Kafka
 
 ## Overview
-The purpose of this repository is to contain a spring boot project with apache kafka(Event-driven Architecture) which is used to publish and process streams of records.
+The purpose of this repository is to contain a spring boot project with apache kafka (Event-driven Architecture) which is used to publish and process streams of records.
+
+### First References
+- [Apache Kafka Official Website](https://kafka.apache.org/)
+- [Youtube](https://youtu.be/KQDTtvZMS9c)
 
 #### Frequently used commands
 Go to the location of downloaded apache_kafka_server in your system like  `C:\kafka` and run `Command Prompt` in that location
